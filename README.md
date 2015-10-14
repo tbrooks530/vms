@@ -70,6 +70,7 @@ License
 
 The project is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/systers/vms/blob/master/LICENSE).
 
+----@GHC2015--Hello Everyone---
 
 Project Contributors
 --------------------
